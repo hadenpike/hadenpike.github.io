@@ -92,7 +92,7 @@ options.
 
 The default location of virtual machines varies depending on your operating system and VirtualBox configuration, but should be something like:
   - Windows\: C\:\\Users\\username\\VirtualBoxVMS
-  - MacOS\: $HOME/
+  - MacOS\: $HOME/VirtualBox VMS
 
 I'm going to name this machine "Debian_64" and because I like to create
 them on a dedicated drive, the basefolder parameter will be set to the
